@@ -1,0 +1,9 @@
+C:\Users\William\Desktop\scrollbar\scrollbar\bin\Debug\scrollbar.exe.config
+C:\Users\William\Desktop\scrollbar\scrollbar\bin\Debug\scrollbar.exe
+C:\Users\William\Desktop\scrollbar\scrollbar\bin\Debug\scrollbar.pdb
+C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\scrollbar.Form1.resources
+C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\scrollbar.Properties.Resources.resources
+C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\scrollbar.exe
+C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\scrollbar.pdb
