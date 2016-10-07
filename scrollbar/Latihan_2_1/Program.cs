@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace scrollbar
+namespace Latihan_2_1
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace scrollbar
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_1_1());
+            Application.Run(new Form_2_1());
         }
     }
 }

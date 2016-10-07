@@ -7,3 +7,12 @@ C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\scrollbar.Properties.Reso
 C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
 C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\scrollbar.exe
 C:\Users\William\Desktop\scrollbar\scrollbar\obj\Debug\scrollbar.pdb
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\scrollbar\bin\Debug\scrollbar.exe.config
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\scrollbar\obj\Debug\scrollbar.exe
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\scrollbar\obj\Debug\scrollbar.pdb
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\scrollbar\bin\Debug\scrollbar.exe
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\scrollbar\bin\Debug\scrollbar.pdb
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\scrollbar\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\scrollbar\obj\Debug\scrollbar.Properties.Resources.resources
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\scrollbar\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\scrollbar\obj\Debug\scrollbar.Form_1_1.resources

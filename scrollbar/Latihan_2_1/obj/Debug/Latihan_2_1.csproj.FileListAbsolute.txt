@@ -1,0 +1,9 @@
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\Latihan_2_1\obj\Debug\Latihan_2_1.Form_2_1.resources
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\Latihan_2_1\obj\Debug\Latihan_2_1.pdb
+E:\Projects\Framework Lanjutan\Senin_141110205_WilliamTansil\scrollbar\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
